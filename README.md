@@ -33,6 +33,9 @@ Customer churn refers to the situation where customers stop using a company’s 
 - Matplotlib
 - Seaborn
 - Scikit-learn
+ ---
+## Contact me
+Emal: apekshyasharma2308@gmail.com
 
 ## Installation & Setup
 
@@ -40,7 +43,6 @@ Customer churn refers to the situation where customers stop using a company’s 
 ```bash
 git clone https://github.com/your-username/Customer-Churn-Prediction.git
 ---
-## Contact me
-Emal: apekshyasharma2308@gmail.com
+
 
 
