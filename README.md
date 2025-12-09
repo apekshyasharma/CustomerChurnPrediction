@@ -39,7 +39,8 @@ Customer churn refers to the situation where customers stop using a company’s 
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/Customer-Churn-Prediction.git
- ## Cintact me
+---
+## Contact me
 Emal: apekshyasharma2308@gmail.com
 
 
